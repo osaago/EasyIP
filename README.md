@@ -41,7 +41,7 @@ EasyIP is a simple tool I created for my own work. I need to change network inte
 2. Run it. There's nothing else to install.
 3. Open EasyIP from the desktop shortcut and click **Yes** on the admin prompt. Windows requires admin rights to change an IP address.
 
-Runs on Windows 10 and 11. It should also run on Windows 8, but I haven't tested that.
+Tested on Windows 10. It should also run on Windows 8 and 11.
 
 **About the blue "Windows protected your PC" warning:** the installer isn't code signed, so Windows may show this screen. Click **More info**, then **Run anyway**.
 
