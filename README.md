@@ -5,7 +5,7 @@
 <h1 align="center">EasyIP</h1>
 
 <p align="center">
-  Change a Windows network adapter's IP address in seconds.
+  Change a Windows network adapter's IP address in one click
 </p>
 
 <p align="center">
